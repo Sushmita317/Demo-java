@@ -3,7 +3,11 @@ package com.bridgelab;
 public class Welcome {
 
 	public static void main(String[] args) {
-	 System.out.println("Sush");
+	 int a=2;
+	 int b=2;
+	 int c= a+b;
+	 System.out.println(c);
+	 
 
 	}
 
